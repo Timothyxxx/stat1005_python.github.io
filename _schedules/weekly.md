@@ -36,4 +36,4 @@ schedule:
         start: 1:00 PM
         end: 3:00 PM
         location: CB313
-  ---
+---
