@@ -66,7 +66,7 @@ schedule:
         location: CB308
       - name: Office Hours
         start: 10:00 AM
-        end: 12:00 AM
+        end: 12:00 PM
         location: CB308
   - name: Saturday
   - name: Sunday
