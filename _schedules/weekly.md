@@ -31,7 +31,7 @@ schedule:
       - name: Lecture
         start: 3:30 PM
         end: 5:20 PM
-        location: CPD-LG.01
+        location: CPD LG.01
       - name: Office Hours
         start: 1:00 PM
         end: 3:00 PM
@@ -56,7 +56,7 @@ schedule:
       - name: Lecture
         start: 3:30 PM
         end: 4:20 PM
-        location: CPD-LG.01
+        location: CPD LG.01
   - name: Friday
     events:
       - name: Tutorial 4
