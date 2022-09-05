@@ -41,11 +41,4 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: CB308
-  - name: Wednesday
-    events:
-      - name: Tutorial 2
-        start: 10:00 AM
-        end: 11:00 AM
-        location: CB308
-
 ---
