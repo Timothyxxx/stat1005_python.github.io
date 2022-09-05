@@ -58,25 +58,4 @@ schedule:
         start: 8:00 PM
         end: 9:00 PM
         location: ZOOM
-  - name: Friday
-    events:
-      - name: Tutorial 4
-        start: 1:30 PM
-        end: 2:30 PM
-        location: CB308
-      - name: Office Hours
-        start: 10:00 AM
-        end: 12:00 PM
-        location: CB308
-  - name: Saturday
-  - name: Sunday
-    events:
-      - name: Tutorial 5
-        start: 1:30 PM
-        end: 2:30 PM
-        location: CB308
-      - name: Office Hours
-        start: 2:00 PM
-        end: 3:00 PM
-        location: CB308
 ---
