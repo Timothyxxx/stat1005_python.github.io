@@ -15,24 +15,29 @@ timeline:
   - '3:00 PM'
   - '3:30 PM'
   - '4:00 PM'
-  - '4:30 PM'
+  - '4:20 PM'
   - '5:00 PM'
-  - '5:30 PM'
+  - '5:20 PM'
+  - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
+  - '8:00 PM'
+  - '8:30 PM'
+  - '9:00 PM'
+  - '9:30 PM'
+  - '10:00 PM'
 schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 3:30 PM
+        end: 5:20 PM
+        location: CPD-LG.01
+      - name: Office Hour
+        start: 1:00 PM
+        end: 3:00 PM
+        location: CB313
   - name: Tuesday
   - name: Wednesday
     events:
