@@ -72,10 +72,6 @@ schedule:
   - name: Sunday
     events:
       - name: Tutorial 5
-        start: 1:30 PM
-        end: 2:30 PM
-        location: CB308
-      - name: Office Hours
         start: 2:00 PM
         end: 3:00 PM
         location: CB308
