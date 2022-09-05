@@ -50,14 +50,14 @@ schedule:
         location: CB308
   - name: Thursday
       events:
-      - name: Tutorial 3
-        start: 8:00 PM
-        end: 9:00 PM
-        location: ZOOM
       - name: Lecture
         start: 3:30 PM
         end: 4:20 PM
         location: CPD LG.01
+      - name: Tutorial 3
+        start: 8:00 PM
+        end: 9:00 PM
+        location: ZOOM
   - name: Friday
     events:
       - name: Tutorial 4
