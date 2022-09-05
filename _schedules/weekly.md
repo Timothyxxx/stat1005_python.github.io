@@ -47,35 +47,5 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: CB308
-  - name: Thursday
-      events:
-      - name: Tutorial 3
-        start: 8:00 PM
-        end: 9:00 PM
-        location: ZOOM
-      - name: Lecture
-        start: 3:30 PM
-        end: 4:20 PM
-        location: CPD LG.01
-  - name: Friday
-    events:
-      - name: Tutorial 4
-        start: 1:30 PM
-        end: 2:30 PM
-        location: CB308
-      - name: Office Hours
-        start: 10:00 AM
-        end: 12:00 PM
-        location: CB308
-  - name: Saturday
-  - name: Sunday
-    events:
-      - name: Tutorial 4
-        start: 1:30 PM
-        end: 2:30 PM
-        location: CB308
-      - name: Office Hours
-        start: 10:00 AM
-        end: 12:00 PM
-        location: CB308
+
 ---
