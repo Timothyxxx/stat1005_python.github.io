@@ -67,11 +67,4 @@ schedule:
         start: 10:00 AM
         end: 12:00 AM
         location: CB308
-  - name: Saturday
-  - name: Sunday
-    events:
-      - name: Tutorial 5
-        start: 2:00 PM
-        end: 3:00 PM
-        location: CB308
 ---
