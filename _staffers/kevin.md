@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
+name: Tao Yu
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: tyu@cs.hku.hk
+website: https://taoyds.github.io/
 photo: kevin.jpg
 ---
 
