@@ -49,7 +49,7 @@ schedule:
         end: 11:00 AM
         location: CB308
   - name: Thursday
-      events:
+    events:
       - name: Lecture
         start: 3:30 PM
         end: 4:20 PM
