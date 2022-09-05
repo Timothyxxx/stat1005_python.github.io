@@ -36,9 +36,4 @@ schedule:
         start: 1:00 PM
         end: 3:00 PM
         location: CB313
-  - name: Tuesday
-      - name: Tutorial 1
-        start: 1:00 PM
-        end: 2:00 PM
-        location: CB308
----
+  ---
