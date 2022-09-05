@@ -1,7 +1,5 @@
 ---
 timeline:
-  - '9:00 AM'
-  - '9:30 AM'
   - '10:00 AM'
   - '10:30 AM'
   - '11:00 AM'
@@ -30,42 +28,50 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
+      - name: Lecture(Tao)
         start: 3:30 PM
         end: 5:20 PM
         location: CPD-LG.01
-      - name: Office Hour
+      - name: Office Hours(Hongjin)
         start: 1:00 PM
         end: 3:00 PM
         location: CB313
   - name: Tuesday
+      - name: Tutorial 1
+        start: 1:00 PM
+        end: 2:00 PM
+        location: CB308
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Tutorial 2
+        start: 10:00 AM
+        end: 11:00 AM
+        location: CB308
   - name: Thursday
+      events:
+      - name: Tutorial 3
+        start: 8:00 PM
+        end: 9:00 PM
+        location: ZOOM(see link in Moodle)
+      - name: Lecture(Tao)
+        start: 3:30 PM
+        end: 4:20 PM
+        location: CPD-LG.01
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Tutorial 4
+        start: 1:30 PM
+        end: 2:30 PM
+        location: CB308
+      - name: Office Hours(Tianbao)
+        start: 10:00 AM
+        end: 12:00 AM
+        location: CB308
+  - name: Saturday
+  - name: Sunday
+    events:
+      - name: Tutorial 5
+        start: 2:00 PM
+        end: 3:00 PM
+        location: CB308
 ---
