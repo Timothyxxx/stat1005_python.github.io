@@ -28,11 +28,11 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture(Tao)
+      - name: Lecture
         start: 3:30 PM
         end: 5:20 PM
         location: CPD-LG.01
-      - name: Office Hours(Hongjin)
+      - name: Office Hours
         start: 1:00 PM
         end: 3:00 PM
         location: CB313
@@ -52,8 +52,8 @@ schedule:
       - name: Tutorial 3
         start: 8:00 PM
         end: 9:00 PM
-        location: ZOOM(see link in Moodle)
-      - name: Lecture(Tao)
+        location: ZOOM
+      - name: Lecture
         start: 3:30 PM
         end: 4:20 PM
         location: CPD-LG.01
@@ -63,7 +63,7 @@ schedule:
         start: 1:30 PM
         end: 2:30 PM
         location: CB308
-      - name: Office Hours(Tianbao)
+      - name: Office Hours
         start: 10:00 AM
         end: 12:00 AM
         location: CB308
