@@ -29,11 +29,11 @@ schedule:
   - name: Time Slots
   - name: Monday
     events:
-      - name: Lecture{: .label .label-red }
+      - name: Lecture
         start: 3:30 PM
         end: 5:20 PM
         location: CPD LG.01
-      - name: Office Hours{: .label .label-blue }
+      - name: Office Hours
         start: 1:00 PM
         end: 3:00 PM
         location: CB313
@@ -51,7 +51,7 @@ schedule:
         location: CB308
   - name: Thursday
     events:
-      - name: Lecture{: .label .label-purple }
+      - name: Lecture
         start: 3:30 PM
         end: 4:20 PM
         location: CPD LG.01
@@ -65,7 +65,7 @@ schedule:
         start: 1:30 PM
         end: 2:30 PM
         location: CB308
-      - name: Office Hours{: .label .label-blue }
+      - name: Office Hours
         start: 10:00 AM
         end: 12:00 PM
         location: CB308
