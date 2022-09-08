@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: STAT1005_Python
-tagline: Python course of STAT1005 2022
+title: Python Basic For Data Science
+tagline: Python course of STAT1005 2022 HKU
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
 baseurl: '' # the subpath of your site, e.g. /blog
