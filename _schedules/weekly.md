@@ -71,7 +71,7 @@ schedule:
   - name: Saturday
     events:
        - name: Tutorial Group 0
-         start: 12:30 AM
+         start: 12:30 PM
          end: 1:20 PM
          location: ZOOM
   - name: Sunday
