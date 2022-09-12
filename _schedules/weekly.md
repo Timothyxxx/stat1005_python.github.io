@@ -69,6 +69,7 @@ schedule:
         end: 12:00 PM
         location: CB308
   - name: Saturday
+   events:
        - name: Tutorial Group 0
         start: 12:30 AM
         end: 1:20 PM
