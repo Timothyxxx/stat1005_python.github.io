@@ -39,41 +39,39 @@ schedule:
         location: CB313
   - name: Tuesday
     events:
-      - name: Tutorial 1
-        start: 1:00 PM
-        end: 2:00 PM
-        location: CB308
+      - name: Tutorial Group 1
+        start: 6:30 PM
+        end: 7:30 PM
+        location: CB313
   - name: Wednesday
-    events:
-      - name: Tutorial 2
-        start: 10:00 AM
-        end: 11:00 AM
-        location: CB308
   - name: Thursday
     events:
       - name: Lecture
         start: 3:30 PM
         end: 4:20 PM
         location: CPD LG.01
-      - name: Tutorial 3
-        start: 8:00 PM
-        end: 9:00 PM
-        location: ZOOM
+      - name: Tutorial Group 2
+        start: 6:30 PM
+        end: 7:30 PM
+        location: CB313
+     - name: Tutorial Group 3
+        start: 7:30 PM
+        end: 8:30 PM
+        location: CB313
+     - name: Tutorial Group 4
+        start: 8:30 PM
+        end: 9:30 PM
+        location: CB313
   - name: Friday
     events:
-      - name: Tutorial 4
-        start: 1:30 PM
-        end: 2:30 PM
-        location: CB308
       - name: Office Hours
         start: 10:00 AM
         end: 12:00 PM
         location: CB308
   - name: Saturday
+       - name: Tutorial Group 0
+        start: 12:30 AM
+        end: 1:20 PM
+        location: ZOOM
   - name: Sunday
-    events:
-      - name: Tutorial 5
-        start: 2:00 PM
-        end: 3:00 PM
-        location: CB308
 ---
