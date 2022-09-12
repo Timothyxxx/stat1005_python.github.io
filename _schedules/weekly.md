@@ -54,11 +54,11 @@ schedule:
         start: 6:30 PM
         end: 7:30 PM
         location: CB313
-     - name: Tutorial Group 3
+      - name: Tutorial Group 3
         start: 7:30 PM
         end: 8:30 PM
         location: CB313
-     - name: Tutorial Group 4
+      - name: Tutorial Group 4
         start: 8:30 PM
         end: 9:30 PM
         location: CB313
@@ -69,10 +69,10 @@ schedule:
         end: 12:00 PM
         location: CB308
   - name: Saturday
-   events:
+    events:
        - name: Tutorial Group 0
-        start: 12:30 AM
-        end: 1:20 PM
-        location: ZOOM
+         start: 12:30 AM
+         end: 1:20 PM
+         location: ZOOM
   - name: Sunday
 ---
