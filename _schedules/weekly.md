@@ -52,7 +52,7 @@ schedule:
         end: 7:20 PM
         location: CB308
   - name: Wednesday
-      events:
+    events:
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
