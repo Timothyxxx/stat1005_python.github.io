@@ -52,6 +52,11 @@ schedule:
         end: 7:20 PM
         location: CB308
   - name: Wednesday
+      events:
+      - name: Office Hours
+        start: 2:00 PM
+        end: 4:00 PM
+        location: CB417
   - name: Thursday
     events:
       - name: Lecture
