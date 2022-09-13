@@ -44,8 +44,8 @@ schedule:
   - name: Tuesday
     events:
       - name: Tutorial Group 2
-        start: 10:30 PM
-        end: 11:20 PM
+        start: 10:30 AM
+        end: 11:20 AM
         location: CB313
       - name: Tutorial Group 3
         start: 6:30 PM
@@ -62,7 +62,7 @@ schedule:
         start: 4:30 PM
         end: 5:20 PM
         location: CB308
-      - name: Tutorial Group 4
+      - name: Tutorial Group 5
         start: 5:30 PM
         end: 6:20 PM
         location: CB308
