@@ -1,5 +1,5 @@
 ---
-title: Foundations of Data Science - Python Basics
+title: Week 2
 ---
 
 Sep 5
