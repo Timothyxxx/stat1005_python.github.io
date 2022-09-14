@@ -37,17 +37,17 @@ schedule:
         start: 1:00 PM
         end: 3:00 PM
         location: CB313
-      - name: Tutorial Group 1
+      - name: Tutorial Group 4
         start: 1:30 PM
         end: 2:20 PM
         location: CB308
   - name: Tuesday
     events:
-      - name: Tutorial Group 2
+      - name: Tutorial Group 5
         start: 10:30 AM
         end: 11:20 AM
         location: CB313
-      - name: Tutorial Group 3
+      - name: Tutorial Group 6
         start: 6:30 PM
         end: 7:20 PM
         location: CB308
@@ -63,11 +63,11 @@ schedule:
         start: 3:30 PM
         end: 4:20 PM
         location: CPD LG.01
-      - name: Tutorial Group 4
+      - name: Tutorial Group 1
         start: 4:30 PM
         end: 5:20 PM
         location: CB308
-      - name: Tutorial Group 5
+      - name: Tutorial Group 2
         start: 5:30 PM
         end: 6:20 PM
         location: CB308
@@ -79,9 +79,9 @@ schedule:
         location: CB308
   - name: Saturday
     events:
-       - name: Tutorial Group 0
+       - name: Tutorial Group 3
          start: 12:30 PM
          end: 1:20 PM
-         location: CB308
+         location: ZOOM only
   - name: Sunday
 ---
