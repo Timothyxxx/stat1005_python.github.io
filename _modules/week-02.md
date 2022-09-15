@@ -2,6 +2,6 @@
 title: Week 3
 ---
 
-Sep 15
+Week 3
 : Lecture 3
   : [Recording 3](), [Slides](), [Notes]()
