@@ -46,11 +46,11 @@ schedule:
       - name: Tutorial Group 5
         start: 10:30 AM
         end: 11:20 AM
-        location: CB313
+        location: HW312
       - name: Tutorial Group 6
         start: 6:30 PM
         end: 7:20 PM
-        location: CB308
+        location: HW311
   - name: Wednesday
     events:
       - name: Office Hours
