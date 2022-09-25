@@ -50,7 +50,7 @@ schedule:
       - name: Tutorial Group 6
         start: 6:30 PM
         end: 7:20 PM
-        location: HW311
+        location: HW312
   - name: Wednesday
     events:
       - name: Office Hours
