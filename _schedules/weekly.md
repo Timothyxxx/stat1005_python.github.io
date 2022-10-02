@@ -54,8 +54,8 @@ schedule:
   - name: Wednesday
     events:
       - name: Office Hours
-        start: 2:00 PM
-        end: 4:00 PM
+        start: 12:00 PM
+        end: 2:00 PM
         location: CB417
   - name: Thursday
     events:
