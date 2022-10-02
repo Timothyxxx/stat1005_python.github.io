@@ -4,11 +4,11 @@ title: Week 3
 
 Sep 22
 : Lecture 5
-  : [Recording 5](https://moodle.hku.hk/mod/lti/view.php?id=2690531), No Lecture Slides, [Notes](https://colab.research.google.com/drive/1A50u7tCd3uovQ2GUjn2v1rMXfpKBQ5sf?usp=sharing)
+  : [Recording 5](https://hku.zoom.us/rec/play/fWyUV01naXMt6ks8nqMTFQ1pEyJsTYGwfcwWfnEaBD7EyDj9vTes7T_FZxOn6LHR5ugIujxplLr6RMO6.TOW-EAi1naRhKoqc) Use Passcode: uCL0j9.., No Lecture Slides, [Notes](https://colab.research.google.com/drive/1A50u7tCd3uovQ2GUjn2v1rMXfpKBQ5sf?usp=sharing)
   
 Sep 26
 : Lecture 6
-  : [Recording 4](https://moodle.hku.hk/mod/lti/view.php?id=2690531), [Slides](https://docs.google.com/presentation/d/17x2RJf-OOannAz0Dn5ac942jB8_N9sgJm9yNVK-VUmY/edit?usp=sharing), [Notes](https://colab.research.google.com/drive/1J69wZE9RA9Qx8QsOaPyh0XXGlofulXP5?usp=sharing)
+  : [Recording 6](https://hku.zoom.us/rec/play/fC-YeCqk3J5uaAVXLtHloSb8SwNCJSA9pLuorQjV0frFozvm8jDLuVUzUQLmSY2FPc8UilUutIliKfOS.P_4bZPuN-Daun0-R) Use Passcode: a3X2BW4*, [Slides](https://docs.google.com/presentation/d/17x2RJf-OOannAz0Dn5ac942jB8_N9sgJm9yNVK-VUmY/edit?usp=sharing), [Notes](https://colab.research.google.com/drive/1J69wZE9RA9Qx8QsOaPyh0XXGlofulXP5?usp=sharing)
  
  📚
 : Tutorial
