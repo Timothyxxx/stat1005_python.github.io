@@ -9,3 +9,5 @@ seo:
 ---
 
 # STAT1005 Python Course
+
+<img src="assets/images/first_shot.jpeg" />
