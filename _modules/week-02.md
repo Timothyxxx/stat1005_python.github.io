@@ -3,7 +3,7 @@ title: Week 3
 ---
 
 Sep 12
-: Lecture 3
+: No Lecture
   : No Lecture
   
 Sep 15
