@@ -8,7 +8,7 @@ Oct 3
   
 Oct 6
 : Lecture 9
-  : [Recording 9](https://hku.zoom.us/rec/play/60xk6wC7x5wIGG2DdOyBOGSLm0ti4HZ5DDP61VjHy2LJhhLl3bBacMGRTimYAMTdk4v4QVCojze8eBUK.6WhQ6YmtiV2uWR8e), [No Slides](No Slides), [Notes](https://colab.research.google.com/drive/1rd8qHlsuaLeaIYXi58RnBEbzhsXSrLDS?usp=sharing)
+  : [Recording 9](https://hku.zoom.us/rec/play/60xk6wC7x5wIGG2DdOyBOGSLm0ti4HZ5DDP61VjHy2LJhhLl3bBacMGRTimYAMTdk4v4QVCojze8eBUK.6WhQ6YmtiV2uWR8e), No Lecture Slides, [Notes](https://colab.research.google.com/drive/1rd8qHlsuaLeaIYXi58RnBEbzhsXSrLDS?usp=sharing)
  
  📚
 : Tutorial
