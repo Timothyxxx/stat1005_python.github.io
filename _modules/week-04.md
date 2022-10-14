@@ -8,7 +8,7 @@ Sep 26
 
 Sep 29
 : Lecture 7
-  : [Recording 7](), [Slides](https://docs.google.com/presentation/d/17-s4Z4ylXjR5P_KELwE9JmPwbViMud9zFYfUVW7xg4I/edit?usp=sharing&resourcekey=0-d6Zp8lhGpppOeMw-juU3_A), [Notes](https://colab.research.google.com/drive/1xxv0wMZZwQRecbg4sgwNgsNqXWluE1LY?usp=sharing)
+  : [Recording 7](https://hku.zoom.us/rec/play/M0rzKM63ovV3sYnIFwHY4c1eQ6sDeVokcstbAOjIWwhQwDLOoLl3t_nx-4r6SRHef_qDzojvOAIJR48c.yzsZ8Ft0faXwz8ev), [Slides](https://docs.google.com/presentation/d/17-s4Z4ylXjR5P_KELwE9JmPwbViMud9zFYfUVW7xg4I/edit?usp=sharing&resourcekey=0-d6Zp8lhGpppOeMw-juU3_A), [Notes](https://colab.research.google.com/drive/1xxv0wMZZwQRecbg4sgwNgsNqXWluE1LY?usp=sharing)
  
  📚
 : Tutorial
