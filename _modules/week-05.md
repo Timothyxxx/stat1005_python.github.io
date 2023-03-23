@@ -8,7 +8,7 @@ Oct 3
   
 Oct 6
 : Lecture 9
-  : [IPython Notebook](https://colab.research.google.com/drive/1rd8qHlsuaLeaIYXi58RnBEbzhsXSrLDS?usp=sharing), No Lecture Slides
+  : [IPython Notebook](https://colab.research.google.com/drive/1rd8qHlsuaLeaIYXi58RnBEbzhsXSrLDS?usp=sharing)
  
  📚
 : Tutorial
